@@ -1,0 +1,9 @@
+E:\Z\Project\TaiQiu\TaiQiu\bin\Debug\TaiQiu.exe
+E:\Z\Project\TaiQiu\TaiQiu\bin\Debug\TaiQiu.pdb
+E:\Z\Project\TaiQiu\TaiQiu\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Z\Project\TaiQiu\TaiQiu\obj\x86\Debug\TaiQiu.Form1.resources
+E:\Z\Project\TaiQiu\TaiQiu\obj\x86\Debug\TaiQiu.Properties.Resources.resources
+E:\Z\Project\TaiQiu\TaiQiu\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Z\Project\TaiQiu\TaiQiu\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Z\Project\TaiQiu\TaiQiu\obj\x86\Debug\TaiQiu.exe
+E:\Z\Project\TaiQiu\TaiQiu\obj\x86\Debug\TaiQiu.pdb

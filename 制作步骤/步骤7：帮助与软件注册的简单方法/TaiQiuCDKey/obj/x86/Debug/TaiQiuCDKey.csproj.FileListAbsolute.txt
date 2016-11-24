@@ -1,0 +1,9 @@
+E:\Z\Project\TaiQiu\步骤7：帮助与软件注册的简单方法\TaiQiuCDKey\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Z\Project\TaiQiu\步骤7：帮助与软件注册的简单方法\TaiQiuCDKey\obj\x86\Debug\TaiQiuCDKey.Form1.resources
+E:\Z\Project\TaiQiu\步骤7：帮助与软件注册的简单方法\TaiQiuCDKey\obj\x86\Debug\TaiQiuCDKey.Properties.Resources.resources
+E:\Z\Project\TaiQiu\步骤7：帮助与软件注册的简单方法\TaiQiuCDKey\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Z\Project\TaiQiu\步骤7：帮助与软件注册的简单方法\TaiQiuCDKey\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Z\Project\TaiQiu\步骤7：帮助与软件注册的简单方法\TaiQiuCDKey\bin\Debug\TaiQiuCDKey.exe
+E:\Z\Project\TaiQiu\步骤7：帮助与软件注册的简单方法\TaiQiuCDKey\bin\Debug\TaiQiuCDKey.pdb
+E:\Z\Project\TaiQiu\步骤7：帮助与软件注册的简单方法\TaiQiuCDKey\obj\x86\Debug\TaiQiuCDKey.exe
+E:\Z\Project\TaiQiu\步骤7：帮助与软件注册的简单方法\TaiQiuCDKey\obj\x86\Debug\TaiQiuCDKey.pdb
